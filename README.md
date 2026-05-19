@@ -1,10 +1,9 @@
 # Personal Finance Tracker
 
-A Python-based finance tracking application that allows users to:
-- add transactions
-- track income and expenses
-- generate summaries
-- visualize spending trends
+## Features
+- Add income/expense transactions
+- View summaries
+- Visualize spending trends
 
 ## Tech Stack
 - Python
@@ -15,4 +14,8 @@ A Python-based finance tracking application that allows users to:
 - PostgreSQL integration
 - FastAPI backend
 - ML-based expense categorization
-- AI-powered financial insights
+- AI financial insights
+
+## Run Locally
+pip install -r requirements.txt
+python src/main.py
