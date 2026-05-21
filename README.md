@@ -9,6 +9,7 @@
 - Python
 - Pandas
 - Matplotlib
+- PostgreSQL
 
 ## Future Improvements
 - FastAPI backend
