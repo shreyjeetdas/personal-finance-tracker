@@ -11,7 +11,6 @@
 - Matplotlib
 
 ## Future Improvements
-- PostgreSQL integration
 - FastAPI backend
 - ML-based expense categorization
 - AI financial insights
