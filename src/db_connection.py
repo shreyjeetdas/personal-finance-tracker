@@ -1,0 +1,12 @@
+import psycopg2
+
+def get_connection():
+    conn = psycopg2.connect(
+        host="localhost",
+        database="finance_db",
+        user="postgres",
+        password="Papun@23",
+        port="5432"
+    )
+
+    return conn
